@@ -1,4 +1,4 @@
-# ATWeChat
+# WeChatExample
 Android仿微信主布局实现
 
 # ScreenShots
